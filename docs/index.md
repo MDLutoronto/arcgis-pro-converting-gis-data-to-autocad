@@ -5,7 +5,10 @@ description: "This tutorial will demonstrate how to convert geospatial datasets 
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
-      created_date: 2024-02-06
+maintainer: 
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-02-06
 permalink: "/"  #! Remove this if not the homepage
 ---
 
