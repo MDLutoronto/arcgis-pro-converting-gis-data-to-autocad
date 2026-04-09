@@ -48,4 +48,3 @@ This tutorial will demonstrate how to convert geospatial datasets saved as shape
 
     The Batch Project tool works much in the same way as the Project tool outlined in this tutorial, except the Geographic Transformation needs to be typed in manually, instead of selected from a dropdown list of potential options.
 
-Technique: [Projecting](https://mdl.library.utoronto.ca/technique/projecting), [Converting data formats](https://mdl.library.utoronto.ca/technique/converting-data-formats) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70) | Data Format: [Vector](https://mdl.library.utoronto.ca/data-format/vector)
